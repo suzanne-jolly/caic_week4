@@ -1,4 +1,4 @@
-## caic_week4
+# caic_week4
 # Tweet Generator and Like Predictor
 
 This is a web application that generates tweets for a selected company and predicts how many likes the tweet might get. It uses a machine learning model trained on a dataset of tweets.
