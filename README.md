@@ -62,3 +62,7 @@ Tweet-Generator-With-Like-Prediction/
 - Generated tweets and predicted likes based on user input
 - All features integrated and functional
 
+  Here is a snapshot of the working app showing the required output:
+  <img width="1399" height="930" alt="image" src="https://github.com/user-attachments/assets/176a7ca1-468a-4efe-8380-0f40b9cdd05f" />
+
+
