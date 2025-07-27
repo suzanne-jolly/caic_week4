@@ -5,6 +5,7 @@ This is a web application that generates tweets for a selected company and predi
 
 ## Project Structure
 Tweet-Generator-With-Like-Prediction/
+```json
 ├── backend/
 │   ├── tweet_generator.py
 │   ├── like_predictor_api.py
@@ -19,7 +20,7 @@ Tweet-Generator-With-Like-Prediction/
 └── training/ (colab)
     └── Week1_EDA_Cleanup.ipynb (in week1 repository); file to be updated soon
 
-
+```
 
 ## Features
 
